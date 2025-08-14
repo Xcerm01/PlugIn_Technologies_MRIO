@@ -8,7 +8,7 @@ Please note that the repository currently contains only a preliminary, trial ver
 
 To cite the dataset, please refer to:
 
-Cerny, M., Weinzettel, J., Wood, R., Fridrich, M., Gross, P., Giljum, S., Bruckner, M., Kimmich, C., Vadovic, P., Kerschner, C. & Hubacek, K. (2025). FUTUREPROOF - an input-output model with detailed technologies for ex-ante scenario modelling [Computer software]. https://doi.org/10.5281/zenodo.7837489
+Cerny, M., Gross, P., & Fridrich, M. (2025). FUTUREPROOF - an input-output model with detailed technologies for ex-ante scenario modelling [Computer software]. https://doi.org/10.5281/zenodo.7837489
 
 
 ### License
