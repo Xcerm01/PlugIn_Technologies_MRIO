@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below:"
+authors:
+- family-names: "Cerny"
+  given-names: "Martin"
+  orcid: "https://orcid.org/0000-0003-2977-3595"
+- family-names: "Gross"
+  given-names: "Paul"
+- family-names: "Fridrich"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0009-0006-0192-0134"
+title: "FUTUREPROOF - an input-output model with detailed technologies for ex-ante scenario modelling"
+doi: 10.5281/zenodo.7837489
+date-released: 2025-08-14
+url: "https://github.com/Xcerm01/PlugIn_Technologies_MRIO"
